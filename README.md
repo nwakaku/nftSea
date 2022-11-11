@@ -4,7 +4,7 @@
 
 The project has been built for the IPFS Bounty Hackathon
 
-1. Hackathon: https://devpost.com/software/nft-marketplace-o4hf58
+
 2. Youtube: https://youtu.be/aUYtk8nAbiI
 3. Live Demo: https://nft-marketplace-near.vercel.app/
 
