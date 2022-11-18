@@ -4,7 +4,7 @@
 
 The project has been built for the IPFS Bounty Hackathon
 
-Live Demo: https://nft-marketplace-near.vercel.app/
+Live Demo: https://nft-sea-pi.vercel.app/
 
 ### What is this
 
